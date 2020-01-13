@@ -39,7 +39,7 @@ WebGL has to be installed.
 80 %
 
 ### Limitations: 
-None
+WebGL Download not possible, can not export the Game 
 
 ### Lessons Learned: 
 * Switch Platform from Standalone to WebGL
